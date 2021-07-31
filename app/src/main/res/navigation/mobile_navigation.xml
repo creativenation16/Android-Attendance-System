@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/nav_home">
+
+    <fragment
+        android:id="@+id/nav_home"
+        android:name="com.sakurateams.attendancesystem.ui.home.HomeFragment"
+        android:label="@string/menu_home"
+        tools:layout="@layout/fragment_home" />
+
+    <fragment
+        android:id="@+id/nav_writecard"
+        android:name="com.sakurateams.attendancesystem.ui.card.WriteCard"
+        android:label="@string/menu_writecard"
+        tools:layout="@layout/write_card_fragment" />
+
+    <fragment
+        android:id="@+id/nav_devicelist"
+        android:name="com.sakurateams.attendancesystem.ui.device.DeviceList"
+        android:label="@string/menu_devicelist"
+        tools:layout="@layout/device_list_fragment" />
+
+
+</navigation>
