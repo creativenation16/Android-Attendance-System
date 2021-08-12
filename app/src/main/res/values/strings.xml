@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Attendance System</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Creative Nation</string>
+    <string name="nav_header_subtitle">creativenation16@gmail.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_devicelist">Device List</string>
+    <string name="menu_writecard">Write Card</string>
+
+    <string name="action_about">About</string>
+    <string name="app_author">Author : </string>
+    <string name="app_version">Version: 1.0.0</string>
+    <string name="app_info"></string>
+    <string name="app_descrip">Simple app for attendance system using bluetooth .</string>
+    <string name="device_discovery_started">Looking for nearby devices&#8230;</string>
+    <string name="device_already_paired">This device is already paired!</string>
+    <string name="device_pairing_success">Device successfully paired!</string>
+    <string name="enabling_bluetooth">Turning on Bluetooth and looking for devices&#8230;</string>
+    <string name="device_discovery_stopped">Device discovery cancelled</string>
+    <string name="empty_list_message">No serial devices found. Tap on the bottom-right button to start a new device discovery.</string>
+    <string name="bluetooth_not_available_message">It seems that this device doesn\'t have a Bluetooth controller available. \nBlue Pair works only with Bluetooth, so please try again on a different device. \nThe app will be now terminated.</string>
+    <string name="bluetooth_not_available_title">Bluetooth not available</string>
+
+    <string name="creativenation_copyright">Copy Right @2021</string>
+    <string name="creativenation">Creative Nation</string>
+
+</resources>
