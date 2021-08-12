@@ -7,3 +7,6 @@ Feature:
 - Read attendance data from arduino with RFID/ mifare classic card
 - Write Name to RFID card
 - Bluetooth simple list 
+
+Video:
+https://youtu.be/16T7HbPF4_c
